@@ -33,5 +33,6 @@ MNIST 手写数字识别（MLP）
 
 ## 怎么运行
 
-Jupyter 打开 `mnist.ipynb` 逐格运行即可。数据集已缓存（`data/`），无需联网下载。
+Jupyter 打开 `mnist.ipynb` 逐格运行即可。
+
 
